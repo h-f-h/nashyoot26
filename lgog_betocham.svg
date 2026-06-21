@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234.25 99.01">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: NoamText-Regular, 'Noam Text';
+        font-size: 19.13px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #bf9c5e;
+      }
+
+      .cls-3 {
+        font-family: NoamText-Bold, 'Noam Text';
+        font-size: 82px;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #0c1f41;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(18 90.11) scale(1.24 1)"><tspan x="0" y="0">המרכז החסידי למשפחה</tspan></text>
+      <g>
+        <text class="cls-3" transform="translate(0 73.51) scale(1.24 1)"><tspan x="0" y="0">בתוכם</tspan></text>
+        <path class="cls-2" d="M202.27,51.07c2.77-2.25,5.57,2.52,2.95,4.22s-5.31-2.31-2.95-4.22Z"/>
+      </g>
+      <g>
+        <polygon class="cls-4" points="217.95 26.76 212.01 26.44 187.74 6.52 163.05 26.45 156.5 26.76 187.33 0 217.95 26.76"/>
+        <rect class="cls-2" x="188.12" y="16.02" width="3.59" height="3.59"/>
+        <rect class="cls-2" x="183.35" y="20.79" width="3.59" height="3.59"/>
+        <rect class="cls-2" x="188.12" y="20.79" width="3.59" height="3.59"/>
+        <polygon class="cls-2" points="186.93 16.02 186.37 19.34 183.35 19.61 183.35 16.02 186.93 16.02"/>
+      </g>
+    </g>
+  </g>
+</svg>
